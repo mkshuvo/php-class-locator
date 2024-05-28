@@ -1,3 +1,4 @@
+![PHP Class Locator](pcl.png)
 # PHP Class Locator Extension
 
 This is a Visual Studio Code extension that provides PHP class locator functionality. It allows you to easily navigate to PHP class files within your project.
@@ -19,10 +20,6 @@ This is a Visual Studio Code extension that provides PHP class locator functiona
 
 1. Place your cursor over a PHP class name in your code. For example: `$this->get('my-path/to/ClassName');`
 2. Press `Ctrl` or `Cmd` (macOS) on the class name to navigate to its file.
-
-## Screenshots
-
-![PHP Class Locator](pcl.png)
 
 ## Contributing
 
