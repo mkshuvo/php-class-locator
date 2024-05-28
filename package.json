@@ -3,6 +3,8 @@
     "displayName": "PHP Class Locator",
     "description": "It is used to open class from locator like $this->get('path-to-locator-class').",
     "version": "0.0.1",
+    "publisher":"MohsinKhanShuvo",
+    "license":"MIT",
     "engines": {
         "vscode": "^1.89.0"
     },
