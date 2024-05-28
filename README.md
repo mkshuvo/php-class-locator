@@ -12,9 +12,9 @@ This is a Visual Studio Code extension that provides PHP class locator functiona
 ## Installation
 
 1. Open terminal or iTerm.
-2. Paste the following command. `git clone https://github.com/mkshuvo/php-class-locator.git ~/.vscode/extensions/
-3. Search for "PHP Class Locator".
-4. Click Install to install the extension.
+2. Paste the following command. `git clone https://github.com/mkshuvo/php-class-locator.git ~/.vscode/extensions/`.
+3. Now go to `~/.vscode/extensions/php-class-locator`.
+4. Run `npm install` to get the packages.
 
 ## Usage
 
